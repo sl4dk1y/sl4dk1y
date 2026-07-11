@@ -13,3 +13,7 @@
     width="100%"
   />
 </picture>
+
+## Featured projects
+- **AI Text Helper** — AI-powered service for working with text using FastAPI, LLMs, RAG and Docker.
+- **MP3 Player** — Java desktop application with streaming and remote playlist management.
