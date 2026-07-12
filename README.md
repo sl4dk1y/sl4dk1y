@@ -14,11 +14,21 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/sl4dk1y/sl4dk1y/3d-output/profile-3d-contrib/profile-night-rainbow.svg"
-    width="100%"
-    alt="3D contribution calendar"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sl4dk1y/sl4dk1y/pacman-output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sl4dk1y/sl4dk1y/pacman-output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/sl4dk1y/sl4dk1y/pacman-output/pacman-contribution-graph.svg"
+      width="100%"
+      alt="Pac-Man contribution graph"
+    />
+  </picture>
 </p>
 
 🥴
