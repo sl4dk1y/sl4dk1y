@@ -15,7 +15,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/sl4dk1y/sl4dk1y/3d-output/profile-3d-contrib/profile-night-view.svg"
+    src="https://raw.githubusercontent.com/sl4dk1y/sl4dk1y/3d-output/profile-3d-contrib/profile-night-rainbow.svg"
     width="100%"
     alt="3D contribution calendar"
   />
