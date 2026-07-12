@@ -7,6 +7,13 @@
 </div>
 
 <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Applied+AI+student;Python+developer;Building+Telegram+bots;Learning+ML+and+backend"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
