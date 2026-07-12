@@ -1,3 +1,4 @@
+<!-- Profile GIF -->
 <div align="center">
   <img
     alt="Profile GIF"
@@ -6,6 +7,7 @@
   />
 </div>
 
+<!-- Typing animation -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Applied+AI+student;Python+developer;Learning+ML+and+backend"
@@ -15,6 +17,7 @@
 
 <h3 align="center">Technologies</h3>
 
+<!-- Icons -->
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,git,github,linux,java&theme=dark&perline=8"
@@ -22,6 +25,7 @@
   />
 </p>
 
+<!-- Pac-Man -->
 <p align="center">
   <picture>
     <source
@@ -40,6 +44,8 @@
   </picture>
 </p>
 
+<!-- Profile metrics -->
+<!--
 <h3 align="center">Languages</h3>
 
 <p align="center">
@@ -49,5 +55,5 @@
     alt="GitHub language metrics"
   />
 </p>
-
+-->
 🥴
