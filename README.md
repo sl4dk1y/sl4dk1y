@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Applied+AI+student;Python+developer;Building+Telegram+bots;Learning+ML+and+backend"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Applied+AI+student;Python+developer;Learning+ML+and+backend"
     alt="Typing SVG"
   />
 </p>
@@ -38,6 +38,16 @@
       alt="Pac-Man contribution graph"
     />
   </picture>
+</p>
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <img
+    src="./metrics.svg"
+    width="700"
+    alt="GitHub language metrics"
+  />
 </p>
 
 🥴
