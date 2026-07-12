@@ -13,6 +13,15 @@
   />
 </p>
 
+<h3 align="center">Technologies</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,git,github,linux,java&theme=dark&perline=8"
+    alt="Technology stack"
+  />
+</p>
+
 <p align="center">
   <picture>
     <source
