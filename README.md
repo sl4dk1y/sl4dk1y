@@ -49,7 +49,7 @@
 <p align="center">
   <a href="https://music.apple.com/tr/album/father-stretch-my-hands-pt-1/1443063578?i=1443063971">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=F75C7E&center=true&vCenter=true&width=720&lines=Beautiful+morning%2C+you%27re+the+sun+in+my+morning%2C+babe"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=F75C7E&center=true&vCenter=true&width=760&lines=Beautiful+mornin%27%2C+you%27re+the+sun+in+my+mornin%27%2C+babe;Nothin%27+unwanted"
       alt="Favorite lyric"
     />
   </a>
